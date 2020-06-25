@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://yumian.alm5.cn/</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-13</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>https://yumian.alm5.cn/course/IOS/index.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-13</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>https://yumian.alm5.cn/course/Common/index.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-13</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>https://yumian.alm5.cn/index.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-13</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>https://yumian.alm5.cn/course/Common/help.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-13</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>https://yumian.alm5.cn/course/Android/index.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-06-13</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+</urlset>
